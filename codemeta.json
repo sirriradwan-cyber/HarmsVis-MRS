@@ -1,0 +1,15 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "HarmsVis (MRS Edition)",
+  "version": "1.0.2",
+  "author": [{ "@type": "Person", "givenName": "Mohamad Radwan", "familyName": "Seri", "name": "Mohamad Radwan Seri" }],
+  "datePublished": "2025-09-06",
+  "license": "https://spdx.org/licenses/MIT.html",
+  "codeRepository": "https://github.com/sirriradwan-cyber/HarmsVis-MRS",
+  "url": "https://github.com/sirriradwan-cyber/HarmsVis-MRS",
+  "identifier": "https://doi.org/10.5281/zenodo.17065698",
+  "programmingLanguage": "HTML, JavaScript, CSS",
+  "applicationCategory": "Visualization",
+  "description": "Single-file offline web app for harms risk-of-bias visualizations (traffic light and summary bar) with PNG/TIFF export and multilingual synonym mapping."
+}
