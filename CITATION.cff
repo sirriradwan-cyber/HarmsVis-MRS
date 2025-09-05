@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "HarmsVis (MRS Edition)"
-version: "1.0.2"
+version: "1.0.1"
 type: software
 authors:
-  - family-names: "Seri"
+  - family-names: "Sirri"
     given-names: "Mohamad Radwan"
 identifiers:
   - type: doi
