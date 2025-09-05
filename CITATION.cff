@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: HarmsVis (MRS Edition)
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Sirri
+    given-names: Mohamad Radwan
+version: 1.0.0
+date-released: 2025-09-06
+doi: 10.xxxx/zenodo.xxxxxxx
+repository-code: https://github.com/<your-github-username>/HarmsVis-MRS
+url: https://<your-github-username>.github.io/HarmsVis-MRS/
+license: MIT
