@@ -41,10 +41,10 @@ See `sample_data/harmsvis_sample.xlsx` and `sample_data/harmsvis_sample.csv`.
 
 ## How to cite
 ### Vancouver
-Sirri MR. HarmsVis (MRS Edition) [software]. Version 1.0.0. Zenodo; 2025. Available from: https://doi.org/10.xxxx/zenodo.xxxxxxx
+Sirri MR. HarmsVis (MRS Edition) [software]. Version 1.0.0. Zenodo; 2025. Available from: https://doi.org/10.5281/zenodo.17065698.
 
 ### APA
-Sirri, M. R. (2025). *HarmsVis (MRS Edition)* (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.xxxx/zenodo.xxxxxxx
+Sirri, M. R. (2025). *HarmsVis (MRS Edition)* (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.17065698.
 
 ### BibTeX
 See `citation.bib` or use the DOI directly once minted.
