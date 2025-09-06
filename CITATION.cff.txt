@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "HarmsVis (MRS Edition)"
+version: "1.0.2"
+doi: "10.5281/zenodo.17065698"
+date-released: "2025-09-06"
+authors:
+  - family-names: "Sirri"
+    given-names: "Mohamad Radwan"
