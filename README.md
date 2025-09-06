@@ -3,7 +3,7 @@
 Self-contained HTML app to visualize **harms risk-of-bias**: traffic-light tables and summary bars. Paste your Excel/CSV/TSV and export high-resolution **PNG/TIFF**.
 
 - **Live demo (GitHub Pages)**: https://&lt;your-github-username&gt;.github.io/HarmsVis-MRS/
-- **Citable archive (DOI)**: https://doi.org/10.xxxx/zenodo.xxxxxxx
+- **Citable archive (DOI)**: https://doi.org/10.5281/zenodo.17065698.
 - **Version**: v1.0.0
 - **Author**: Mohamad Radwan Sirri (MRS)
 
