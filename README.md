@@ -55,7 +55,4 @@ See `citation.bib` or use the DOI directly once minted.
 MIT © 2025 Mohamad Radwan Sirri
 https://github.com/sirirradwan-cyber/HarmsVis-MRS/raw/main/harmsvis.enw
 https://github.com/sirirradwan-cyber/HarmsVis-MRS/raw/main/harmsvis.ris
-## Cite / Download for EndNote
-- **EndNote (.ENW):** [Download](https://raw.githubusercontent.com/sirirradwan-cyber/HarmsVis-MRS/main/HarmsVis_MRS%E2%80%94%20Integrated%20Citation%20Support.enw)
-- **RIS (.RIS):** [Download](https://raw.githubusercontent.com/sirirradwan-cyber/HarmsVis-MRS/main/HarmsVis_MRS%E2%80%94%20Integrated%20Citation%20Support.ris)
 
